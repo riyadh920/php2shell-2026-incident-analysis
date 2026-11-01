@@ -2,7 +2,7 @@
 
 **Author:** Md Riyadh Hasan  
 **Affiliation:** Independent Researcher, Oxford, United Kingdom  
-**Version:** 1.0.0  
+**Version:** 2.0.0  
 **Release date:** 2026-11-01  
 **Document type:** Independent technical incident report
 
@@ -24,16 +24,16 @@ The original contribution of this release is the author's synthesis, incident an
 
 ## Citation
 
-Hasan, M. R. (2026). *PHP2Shell 2026: Root Cause, Disclosure, Human Factors, Honeypot Evidence, Business Risk and PHP Ecosystem Resilience* (Version 1.0.0) [Technical report]. Zenodo. https://doi.org/10.5281/zenodo.23851194. 
+Hasan, M. R. (2026). *PHP2Shell 2026: Root Cause, Disclosure, Human Factors, Honeypot Evidence, Business Risk and PHP Ecosystem Resilience* (Version 2.0.0) [Technical report].  
 
 
 
-[Read the canonical PDF](PHP2Shell_2026_Hasan_v1.0.0.pdf) · [Editable DOCX](PHP2Shell_2026_Hasan_v1.0.0.docx)
+[Read the canonical PDF](PHP2Shell_2026_Hasan_v2.0.0.pdf) · [Editable DOCX](PHP2Shell_2026_Hasan_v2.0.0.docx)
 
 ## Files
 
-- `PHP2Shell_2026_Hasan_v1.0.0.pdf` - canonical public report
-- `PHP2Shell_2026_Hasan_v1.0.0.docx` - earlier editable source; does not include the latest integrated hypotheses section
+- `PHP2Shell_2026_Hasan_v2.0.0.pdf` - canonical public report
+- `PHP2Shell_2026_Hasan_v2.0.0.docx` - matching Version 2 editable source
 - `ABSTRACT.md` - abstract and keywords
 - `CITATION.cff` - machine-readable citation metadata for GitHub
 - `zenodo.json` - draft Zenodo deposition metadata
@@ -44,14 +44,14 @@ Hasan, M. R. (2026). *PHP2Shell 2026: Root Cause, Disclosure, Human Factors, Hon
 
 ## DOI
 
-Published archival record: https://zenodo.org/records/23851194
+Version 2.0.0 archival deposit is being prepared. No DOI is claimed for this version yet.
 
-DOI: [10.5281/zenodo.23851194](https://doi.org/10.5281/zenodo.23851194)
+Previous archived publication (1.0.0): https://doi.org/10.5281/zenodo.23851194
 
 ## DOI workflow
 
 1. Create a public GitHub repository and upload this release package.
-2. Create/tag release `v1.0.0`.
+2. Create/tag release `v2.0.0`.
 3. Deposit the canonical PDF and supporting metadata in Zenodo (or connect the GitHub repository to Zenodo if desired).
 4. Publish the Zenodo record to obtain the DOI.
 5. Update `CITATION.cff`, `README.md`, and the GitHub release with the assigned DOI.
@@ -106,7 +106,7 @@ Vendor telemetry remains reported evidence in this synthesis even when the vendo
 
 ## Version
 
-1.0.0 — publication date 1 November 2026. Repository commits and the formal release provide platform timestamps; a DOI is claimed only after archival publication.
+2.0.0 — publication date 1 November 2026. Repository commits and the formal release provide platform timestamps; a DOI is claimed only after archival publication.
 
 ## License/rights
 
@@ -116,6 +116,7 @@ Copyright © 2026 Md Riyadh Hasan. Original text, figures, synthesis and PDRF ar
 
 Independent technical report / cybersecurity incident analysis; not peer-reviewed. This report does not establish employee involvement or identify any person as an attacker. It is a time-bounded synthesis, and later evidence may revise incident understanding. Defensive analysis is not authorization to test systems.
 
-## PDF replacement — 1 November 2026
 
-The canonical 25-page PDF incorporates the author-supplied hypotheses-integrated revision, including section 2A and the executive-summary hypothesis focus. Only its cover title/version was standardized for publication. The DOCX is an earlier editable source and is not synchronized with this PDF. The original v1.0.0 tag preserves the first repository snapshot; the main branch and replacement release assets contain this revision.
+## Version 2 source verification
+
+Both PDF and DOCX come from the author’s prior-chat files named Hasan_PHP2Shell_2026_Final_Paper_v2_Hypotheses_Integrated. Both include the executive-summary hypothesis focus and section 2A assessing H1-H5. Publication cover title and version standardized to 2.0.0; research content unchanged. Older v1.0.0 files retained as publication history.

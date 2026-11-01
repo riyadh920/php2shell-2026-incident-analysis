@@ -27,7 +27,7 @@
     "software supply chain"
   ],
   "publication_date": "2026-11-01",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "access_right": "open",
   "notes": "Independent incident analysis. This deposit does not claim discovery or ownership of PHP2Shell or the underlying CVEs. Discovery and responsible-disclosure attribution is documented in ATTRIBUTION.md. Rights to the report text and original figures are reserved by the author unless separately stated.",
   "language": "eng",

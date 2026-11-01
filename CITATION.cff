@@ -6,7 +6,7 @@ authors: &id001
 - family-names: Hasan
   given-names: Md Riyadh
   affiliation: Independent Researcher, Oxford, United Kingdom
-version: 1.0.0
+version: 2.0.0
 date-released: '2026-11-01'
 abstract: PHP2Shell refers to two critical PHP runtime vulnerabilities, CVE-2026-109618 and CVE-2026-109619,
   disclosed and patched in October 2026. This rapid incident-analysis report examines the vulnerabilities
@@ -43,7 +43,7 @@ keywords:
 - PDRF
 - social engineering hypothesis
 - software supply chain
-url: https://doi.org/10.5281/zenodo.23851194
+url: https://github.com/riyadh920/php2shell-2026-incident-analysis
 license-url: https://github.com/riyadh920/php2shell-2026-incident-analysis/blob/main/LICENSE.txt
 preferred-citation:
   type: report
@@ -51,10 +51,6 @@ preferred-citation:
     PHP Ecosystem Resilience'
   authors: *id001
   year: 2026
-  version: 1.0.0
+  version: 2.0.0
   date-published: '2026-11-01'
-  url: https://doi.org/10.5281/zenodo.23851194
-  doi: 10.5281/zenodo.23851194
-  publisher:
-    name: Zenodo
-doi: 10.5281/zenodo.23851194
+  url: https://github.com/riyadh920/php2shell-2026-incident-analysis
