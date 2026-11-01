@@ -24,7 +24,7 @@ The original contribution of this release is the author's synthesis, incident an
 
 ## Citation
 
-Hasan, M. R. (2026). *PHP2Shell 2026: Root Cause, Disclosure, Human Factors, Honeypot Evidence, Business Risk and PHP Ecosystem Resilience* (Version 1.0.0) [Technical report]. 
+Hasan, M. R. (2026). *PHP2Shell 2026: Root Cause, Disclosure, Human Factors, Honeypot Evidence, Business Risk and PHP Ecosystem Resilience* (Version 1.0.0) [Technical report]. Zenodo. https://doi.org/10.5281/zenodo.23851194. 
 
 
 
@@ -44,7 +44,9 @@ Hasan, M. R. (2026). *PHP2Shell 2026: Root Cause, Disclosure, Human Factors, Hon
 
 ## DOI
 
-No DOI has been issued. The archival deposit is pending publication.
+Published archival record: https://zenodo.org/records/23851194
+
+DOI: [10.5281/zenodo.23851194](https://doi.org/10.5281/zenodo.23851194)
 
 ## DOI workflow
 
