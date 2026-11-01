@@ -17,7 +17,9 @@ Initial public-release package for *PHP2Shell 2026: Root Cause, Disclosure, Huma
 This is an independent rapid technical incident report, not a claim of vulnerability discovery. Human-factor, social-engineering, and insider scenarios are framed as hypotheses and graded by available evidence. Honeypot observations are used as defensive evidence.
 
 ## DOI status
-No DOI is claimed in this package. A DOI should be added only after a repository such as Zenodo publishes the deposit and returns an assigned DOI.
+Published on Zenodo: https://zenodo.org/records/23851194
+
+DOI: https://doi.org/10.5281/zenodo.23851194
 
 ## Publication preparation
 Cover title and version standardized to the release metadata; research findings unchanged. Repository presentation and source links clarified. Reserved rights must be entered as a custom rights statement in the archival deposit, not as an open license.
