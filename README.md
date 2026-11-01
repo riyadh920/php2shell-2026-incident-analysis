@@ -33,7 +33,7 @@ Hasan, M. R. (2026). *PHP2Shell 2026: Root Cause, Disclosure, Human Factors, Hon
 ## Files
 
 - `PHP2Shell_2026_Hasan_v1.0.0.pdf` - canonical public report
-- `PHP2Shell_2026_Hasan_v1.0.0.docx` - editable source document
+- `PHP2Shell_2026_Hasan_v1.0.0.docx` - earlier editable source; does not include the latest integrated hypotheses section
 - `ABSTRACT.md` - abstract and keywords
 - `CITATION.cff` - machine-readable citation metadata for GitHub
 - `zenodo.json` - draft Zenodo deposition metadata
@@ -113,3 +113,7 @@ Copyright © 2026 Md Riyadh Hasan. Original text, figures, synthesis and PDRF ar
 ## Disclaimer
 
 Independent technical report / cybersecurity incident analysis; not peer-reviewed. This report does not establish employee involvement or identify any person as an attacker. It is a time-bounded synthesis, and later evidence may revise incident understanding. Defensive analysis is not authorization to test systems.
+
+## PDF replacement — 1 November 2026
+
+The canonical 25-page PDF incorporates the author-supplied hypotheses-integrated revision, including section 2A and the executive-summary hypothesis focus. Only its cover title/version was standardized for publication. The DOCX is an earlier editable source and is not synchronized with this PDF. The original v1.0.0 tag preserves the first repository snapshot; the main branch and replacement release assets contain this revision.

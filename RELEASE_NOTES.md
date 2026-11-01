@@ -21,3 +21,7 @@ No DOI is claimed in this package. A DOI should be added only after a repository
 
 ## Publication preparation
 Cover title and version standardized to the release metadata; research findings unchanged. Repository presentation and source links clarified. Reserved rights must be entered as a custom rights statement in the archival deposit, not as an open license.
+
+## Author-supplied PDF replacement — 1 November 2026
+
+The canonical PDF was replaced with the 25-page hypotheses-integrated revision supplied by the author. Section 2A explicitly assesses H1-H5; insider involvement remains unsupported. Cover title/version standardized only. The attached ZIP and checksums were refreshed. The DOCX remains an earlier editable source and does not contain the integrated hypotheses section. The v1.0.0 Git tag retains the original publication snapshot; current release assets and main contain this disclosed replacement.
