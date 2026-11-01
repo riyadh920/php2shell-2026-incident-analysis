@@ -12,6 +12,8 @@ This release synchronizes both PDF and DOCX with the author’s Version 2 hypoth
 
 ## DOI
 
-Version 2.0.0 archival deposit is being prepared. No DOI is claimed for this version yet.
+Published Version 2.0.0: https://zenodo.org/records/23851286
+
+DOI: https://doi.org/10.5281/zenodo.23851286
 
 Previous archival record (1.0.0): https://doi.org/10.5281/zenodo.23851194
