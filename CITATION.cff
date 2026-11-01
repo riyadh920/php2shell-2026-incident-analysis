@@ -2,8 +2,7 @@ cff-version: 1.2.0
 message: If you use this report, please cite it using the metadata below.
 title: 'PHP2Shell 2026: Root Cause, Disclosure, Human Factors, Honeypot Evidence, Business Risk and PHP
   Ecosystem Resilience'
-type: report
-authors:
+authors: &id001
 - family-names: Hasan
   given-names: Md Riyadh
   affiliation: Independent Researcher, Oxford, United Kingdom
@@ -46,3 +45,12 @@ keywords:
 - software supply chain
 url: https://github.com/riyadh920/php2shell-2026-incident-analysis
 license-url: https://github.com/riyadh920/php2shell-2026-incident-analysis/blob/main/LICENSE.txt
+preferred-citation:
+  type: report
+  title: 'PHP2Shell 2026: Root Cause, Disclosure, Human Factors, Honeypot Evidence, Business Risk and
+    PHP Ecosystem Resilience'
+  authors: *id001
+  year: 2026
+  version: 1.0.0
+  date-published: '2026-11-01'
+  url: https://github.com/riyadh920/php2shell-2026-incident-analysis
