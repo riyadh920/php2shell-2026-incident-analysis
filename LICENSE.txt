@@ -1,0 +1,9 @@
+Copyright © 2026 Md Riyadh Hasan. All rights reserved.
+
+The report text, original figures, original synthesis, and Hasan PHP Dependency Resilience Framework (PDRF) are copyrighted by the author.
+
+This notice does not confer ownership over PHP, PHP2Shell, CVE-2026-109618, CVE-2026-109619, third-party vulnerability discoveries, trademarks, source code, research findings, or material owned by their respective authors and organizations.
+
+Public distribution of the unmodified report for reading and citation is permitted. Reproduction, modification, republication, or commercial reuse of substantial original portions requires permission from the author unless an applicable legal exception permits otherwise.
+
+Third-party citations, names, trademarks, and referenced findings remain subject to their own rights and licenses.
